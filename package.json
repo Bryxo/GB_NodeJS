@@ -20,9 +20,11 @@
   "description": "",
   "dependencies": {
     "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
     "minimist": "^1.2.7",
     "moment": "^2.29.4",
-    "moment-precise-range-plugin": "^1.3.0"
+    "moment-precise-range-plugin": "^1.3.0",
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@types/jest": "^29.1.2",
